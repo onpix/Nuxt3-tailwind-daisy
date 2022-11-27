@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.some-custom-style {
+  background-color: black;
+  border-radius: 0;
+}
